@@ -230,6 +230,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1385853540176189092, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026792722770486834, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026792724378935101, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026792724568846035, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026792724879307912, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4210249964250231302, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -281,6 +301,18 @@ PrefabInstance:
     - target: {fileID: 8394641142729991084, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
       propertyPath: m_Name
       value: BarPivot
+      objectReference: {fileID: 0}
+    - target: {fileID: 8749248065419207047, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8749248066221857637, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8749248066971313500, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
+      propertyPath: m_LinearDrag
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8898805941532290064, guid: 0decdf0f9958ecb45bf4fb4dbb7aa1c1, type: 3}
       propertyPath: m_LocalPosition.x
